@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="UserContentModel">
-    <attachedFolders />
+    <attachedFolders>
+      <Path>../../.config/JetBrains/Rider2024.3/extensions</Path>
+      <Path>../../.config/JetBrains/Rider2024.3/scratches</Path>
+    </attachedFolders>
     <explicitIncludes />
     <explicitExcludes />
   </component>
